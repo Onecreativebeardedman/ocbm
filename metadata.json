@@ -1,0 +1,5 @@
+{
+  "name": "Google Font Downloader",
+  "version": "1.0.0",
+  "description": "Fetch and download Google Fonts directly from the google/fonts repository"
+}
